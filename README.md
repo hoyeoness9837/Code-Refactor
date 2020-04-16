@@ -1,1 +1,1 @@
-# Code-Refactor
+My approach was to simplfy classes that follow the same styling. Thus, I changed names of those classes and replaced the linked name of classes in the style.css file. In addition, I applied the reset.css file priorly in order to remove any default styling rules. Detailed explaination for any changes in the code are written as comment along with relative contents.
